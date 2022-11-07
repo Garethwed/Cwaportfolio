@@ -1,0 +1,24 @@
+html,body{
+    font-family: 'Heebo', sans-serif;
+}
+
+.blog-item h2{
+
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 44px;
+    color :rgb(8, 2, 2)
+}
+.blog-item p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #21243D;
+}
+.blog-item spam{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    color: #21243D;
+}
+        
